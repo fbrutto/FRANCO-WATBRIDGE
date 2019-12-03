@@ -1,4 +1,8 @@
-blinker==1.4
+cd ~/myapp
+
+heroku create
+Creating app... done, ⬢ sleepy-meadow-81798
+https://sleepy-meadow-81798.herokuapp.com/ | https://git.heroku.com/sleepy-meadow-81798.gitblinker==1.4
 pyTelegramBotAPI==2.1.7
 six==1.10.0
 tinydb==3.2.1
