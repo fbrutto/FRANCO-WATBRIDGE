@@ -1,4 +1,4 @@
-cd ~/myapp
+
 blinker==1.4
 pyTelegramBotAPI==2.1.7
 six==1.10.0
